@@ -4,7 +4,7 @@ import { BsHouseDoor } from "react-icons/bs";
 import {CiLocationOn} from 'react-icons/ci'
 const Search = () => {
   return (
-    <div className='grid gp-10 bg-greyIsh rounded-[10px] p-[3rem]'>
+    <div className='grid gp-10 bg-greyIsh rounded-[10px] p-[3rem] mt-10'>
        <form>
            <div className='flex justify-between items-center rounded-[8px] gap-[10px] bg-white p-5 drop-shadow-greyIsh-700'>
                 <div className='flex gap-2 items-center'>
