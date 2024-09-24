@@ -8,7 +8,7 @@ import { BrowserRouter, Route, Router } from 'react-router-dom'
 
 const App = () => {
   return (
-    <div>
+    <div className='w-[85%] m-auto bg-white'>
       <Navbar/>
       <Search/>
       <Job/>
